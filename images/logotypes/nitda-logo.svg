@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 70" width="240" height="70">
+  <g transform="translate(10, 10)">
+    <!-- NITDA Digital Globe Icon -->
+    <circle cx="25" cy="25" r="21" fill="none" stroke="#008751" stroke-width="3"/>
+    <path d="M 10 25 H 40 M 25 10 V 40" stroke="#008751" stroke-width="2" stroke-dasharray="3 2"/>
+    <circle cx="25" cy="25" r="10" fill="#008751"/>
+    <circle cx="25" cy="25" r="4" fill="#F4B400"/>
+    <circle cx="25" cy="10" r="3" fill="#008751"/>
+    <circle cx="25" cy="40" r="3" fill="#008751"/>
+    <circle cx="10" cy="25" r="3" fill="#008751"/>
+    <circle cx="40" cy="25" r="3" fill="#008751"/>
+  </g>
+  <!-- Text Block -->
+  <text x="68" y="32" font-family="'Inter', 'Helvetica Neue', sans-serif" font-weight="800" font-size="22" fill="#0B2545" letter-spacing="1">NITDA</text>
+  <text x="68" y="48" font-family="'Inter', 'Helvetica Neue', sans-serif" font-weight="600" font-size="8.5" fill="#008751" letter-spacing="0.4">NATIONAL INFORMATION TECH.</text>
+  <text x="68" y="58" font-family="'Inter', 'Helvetica Neue', sans-serif" font-weight="600" font-size="8" fill="#555555" letter-spacing="0.4">DEVELOPMENT AGENCY</text>
+</svg>

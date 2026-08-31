@@ -7296,6 +7296,7 @@ img.services-image{
 .work-img{
     position: relative;
     overflow: hidden;
+    aspect-ratio: 4 / 3;
     transform: rotate(0.001deg) translateZ(0);
 }
 .work-img-bg{
@@ -7313,6 +7314,8 @@ img.services-image{
     display: block;
     position: relative;
     width: 100%;    
+    height: 100%;
+    object-fit: cover;
     overflow: hidden;
     transform: rotate(0.001deg) translateZ(0);
 }
@@ -8548,7 +8551,11 @@ a.portfolio-5-link:hover .portfolio-5-title span{
 .logo-item img{
     position: relative;
     top: 50%;
-    
+    max-height: 80px;
+    width: auto;
+    max-width: 100%;
+    object-fit: contain;
+    margin: 0 auto;
     -webkit-transform: translateY(-50%);
     -moz-transform: translateY(-50%);
     transform: translateY(-50%);
