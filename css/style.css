@@ -6701,7 +6701,7 @@ img.services-image{
     align-items: center;
     margin-right: 15px;
     color: var(--color-primary-1);
-    font-size: 60px;
+    font-size: 40px;
     font-weight: 500;
     line-height: 1;
     letter-spacing: -0.05em;
@@ -6709,7 +6709,7 @@ img.services-image{
 .number-1-descr{
     display: flex;
     align-items: center;
-    font-size: 18px;
+    font-size: 14px;
     line-height: 1.37;
     color: var(--color-gray-1);
 }
