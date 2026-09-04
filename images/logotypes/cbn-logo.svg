@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 70" width="240" height="70">
+  <g transform="translate(10, 10)">
+    <!-- CBN Seal Icon -->
+    <circle cx="25" cy="25" r="22" fill="#008751"/>
+    <circle cx="25" cy="25" r="18" fill="none" stroke="#F4B400" stroke-width="2"/>
+    <!-- Pillars / Bank icon -->
+    <path d="M 14 34 H 36 M 15 34 V 20 M 21 34 V 20 M 29 34 V 20 M 35 34 V 20 M 13 20 H 37 M 25 12 L 12 20 H 38 Z" fill="none" stroke="#FFFFFF" stroke-width="1.8" stroke-linejoin="round"/>
+  </g>
+  <!-- Text Block -->
+  <text x="68" y="32" font-family="'Inter', 'Helvetica Neue', sans-serif" font-weight="800" font-size="22" fill="#0B2545" letter-spacing="1">CBN</text>
+  <text x="68" y="48" font-family="'Inter', 'Helvetica Neue', sans-serif" font-weight="600" font-size="9" fill="#008751" letter-spacing="0.5">CENTRAL BANK OF</text>
+  <text x="68" y="58" font-family="'Inter', 'Helvetica Neue', sans-serif" font-weight="600" font-size="8.5" fill="#555555" letter-spacing="0.5">NIGERIA</text>
+</svg>
